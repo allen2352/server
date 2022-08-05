@@ -1,0 +1,2 @@
+命令:powercfg/batteryreport
+儲存到檔案路徑:battery-report.html
