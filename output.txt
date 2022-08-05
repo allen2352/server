@@ -1,0 +1,2961 @@
+AddonPeds Editor.exe**529920
+AddonPedsVars.xml**1784
+AddonSpawner**0
+AddonSpawner.log**2115
+hashes.cache**10479
+img**0
+noimage.png**29389
+settings_general.ini**198
+settings_menu.ini**1724
+UserDLC**0
+INSTRUCTIONS.txt**504
+AddonSpawner.asi**791040
+army_response.asi**131584
+asiloader.log**2380
+Autosave.xml**2129
+bass.dll**208384
+bink2w64.dll**435712
+Colorful Realistic.ini**9572
+common.rpf**27705344
+d3dcompiler_46.dll**3873208
+d3dcsx_46.dll**1916872
+Dark and Realistic.ini**1688
+DaS.asi**110592
+DaS.ini**39
+Deep and Rich.ini**3428
+dinput8.dll**131072
+Dismemberment.ini**52
+DismembermentASI.asi**62976
+EnhancedNativeTrainer.asi**9839616
+ent-config.xml**7597
+GFSDK_ShadowLib.win64.dll**3954688
+GFSDK_TXAA.win64.dll**94720
+GFSDK_TXAA_AlphaResolve.win64.dll**94720
+GTA5.exe**60339200
+GTAV.HeapAdjuster.asi**100864
+GTAVLauncher.exe**20959232
+hashes.ini**10479
+installscript.vdf**423
+Language Selector.exe**36864
+LUA.asi**3523584
+Menyoo.asi**3218432
+menyooLog.txt**2722
+menyooStuff**0
+AnimalRidingData.xml**575
+Audio**0
+astronomia.mp3**4761110
+Audio.readme.txt**95
+FavouritePeds.xml**62
+Graphics**0
+Clock**0
+Clock.readme.txt**275
+Default_face.png**45070
+Default_handh.png**584
+Default_handm.png**590
+Frameless_face.png**18243
+Frameless_handh.png**584
+Frameless_handm.png**590
+Speedo**0
+bg_cyan.png**35299
+bg_cyan2.png**33997
+bg_green.png**35248
+bg_green2.png**34306
+bg_orange.png**33511
+bg_orange2.png**34316
+bg_pink.png**33665
+bg_pink2.png**34454
+bg_purple.png**33810
+bg_purple2.png**46805
+bg_yellow.png**33957
+bg_yellow2.png**34713
+needle_orange.png**7210
+needle_red.png**5700
+night_needle_orange.png**10539
+night_needle_red.png**7232
+teleportToWaypointBoxGamepad.png**9500
+teleportToWaypointBoxKeyboard.png**8223
+Vehicle Previews**0
+Vehicle Previews.readme.txt**140
+JumpAroundMode.mp3**2401768
+menyooConfig.ini**6906
+Outfit**0
+GhostRider.xml**11575
+Outfit.readme.txt**189
+_reserved.xml**1919
+PedAnimList.txt**6505727
+PedDecalOverlays.xml**274669
+PedList.xml**48809
+PedSpeechList.txt**5015569
+PropList.txt**328681
+Spooner**0
+Bel Air.xml**958182
+Dancing Coffin Meme.xml**30735
+LifeInvaderChiliad.xml**960792
+Spooner.readme.txt**208
+water.xml**20938
+TimecycModifiers.xml**45967
+Vehicle**0
+GhostRider.xml**24982
+GhostRiderCandles.xml**20883
+GhostRiderCats.xml**7407
+Vehicle.readme.txt**204
+VehicleList.xml**29429
+WeaponsLoadout**0
+WeaponsLoadout.readme.txt**219
+mods**0
+common.rpf**27711488
+update**0
+update.rpf**1084247552
+x64**0
+data**0
+errorcodes**0
+american.txt**24691
+chinese.txt**45303
+french.txt**47520
+german.txt**48121
+italian.txt**46608
+japanese.txt**58601
+korean.txt**53949
+mexican.txt**46587
+polish.txt**46135
+portuguese.txt**48397
+russian.txt**68992
+spanish.txt**49091
+dlcpacks**0
+addonpeds**0
+dlc.rpf**426861568
+bmws**0
+dlc.rpf**27309056
+dismemberment**0
+dlc.rpf**4307968
+F1**0
+dlc.rpf**36505600
+j15a**0
+dlc.rpf**17603072
+james**0
+dlc.rpf**24259584
+katana**0
+dlc.rpf**89295360
+m142**0
+dlc.rpf**9505280
+m1a1**0
+dlc.rpf**25908224
+mpairraces**0
+dlc.rpf**82458624
+mpapartment**0
+dlc.rpf**636983808
+mpbiker**0
+dlc.rpf**1794048000
+mpchristmas2**0
+dlc.rpf**63940608
+mpchristmas2017**0
+dlc.rpf**402944
+mpexecutive**0
+dlc.rpf**801568768
+mpgunrunning**0
+dlc.rpf**1879755264
+mphalloween**0
+dlc.rpf**104658944
+mpheist**0
+dlc.rpf**3052763136
+mpheist3**0
+dlc.rpf**339456
+mpheist4**0
+dlc.rpf**560640
+mpimportexport**0
+dlc.rpf**915310592
+mpjanuary2016**0
+dlc.rpf**149415936
+mplowrider**0
+dlc.rpf**1088813056
+mplowrider2**0
+dlc.rpf**334027264
+mpluxe**0
+dlc.rpf**226260992
+mpluxe2**0
+dlc.rpf**105105408
+mppatchesng**0
+dlc.rpf**437524480
+mpreplay**0
+dlc.rpf**429932544
+mpsmuggler**0
+dlc.rpf**973670400
+mpspecialraces**0
+dlc.rpf**78447104
+mpstunt**0
+dlc.rpf**348047360
+mpvalentines2**0
+dlc.rpf**25073664
+mpxmas_604490**0
+dlc.rpf**46061568
+nibmods_im_eg**0
+dlc.rpf**15878144
+nibmods_nibthor**0
+dlc.rpf**27053568
+nibmods_thanos_eg**0
+dlc.rpf**15878144
+NVR_carcols**0
+dlc.rpf**456192
+NVR_emissive**0
+dlc.rpf**1024
+NVR_textures**0
+dlc.rpf**108407296
+patchday10ng**0
+dlc.rpf**94134272
+patchday11ng**0
+dlc.rpf**9955328
+patchday12ng**0
+dlc.rpf**155363328
+patchday13ng**0
+dlc.rpf**144752640
+patchday14ng**0
+dlc.rpf**92930048
+patchday15ng**0
+dlc.rpf**47478784
+patchday16ng**0
+dlc.rpf**12083200
+patchday1ng**0
+dlc.rpf**467415040
+patchday2bng**0
+dlc.rpf**39548928
+patchday2ng**0
+dlc.rpf**804900864
+patchday3ng**0
+dlc.rpf**2280111104
+patchday4ng**0
+dlc.rpf**312438784
+patchday5ng**0
+dlc.rpf**7827456
+patchday6ng**0
+dlc.rpf**31907840
+patchday7ng**0
+dlc.rpf**43843584
+patchday8ng**0
+dlc.rpf**365792256
+patchday9ng**0
+dlc.rpf**160524288
+peds_Corpse**0
+dlc.rpf**1441792
+peds_TheGate**0
+dlc.rpf**12591104
+razorcrest**0
+dlc.rpf**111622144
+snowspeeder**0
+dlc.rpf**60115968
+super police car**0
+dlc.rpf**60134912
+tieadvanced**0
+dlc.rpf**63312896
+vip8**0
+dlc.rpf**21681664
+Vivid_NaturalVision**0
+dlc.rpf**1536
+zancudo**0
+dlc.rpf**63312896
+metadata.dat**960606
+x64**0
+audio**0
+sfx**0
+ONESHOT_AMBIENCE.rpf**72336384
+RESIDENT.rpf**112784384
+WEAPONS_PLAYER.rpf**7315968
+x64a.rpf**48763904
+x64c.rpf**2261241856
+x64e.rpf**2280849408
+x64g.rpf**3150547456
+NativeTrainer.asi**330240
+NativeTrainerConfig.xml**216655
+NAudio.dll**369664
+NIBMods.Dev**0
+SpawnMenu**0
+Corpse.ini**2121
+PreviewImages**0
+area.png**6513
+The_Gate.ini**2125
+NIBSHDotNet.dll**1043456
+NIBSHDotNet.log**3654
+NIBSHDotNet.xml**92901
+NIBSHDotNet_loader.asi**42496
+NIBSHDotNet_loader.log**121
+ObjectSpawnUnlockNbuild.asi**31744
+ObjectSpawnUnlockNbuild_log.txt**142
+openCameraV.asi**126976
+openCameraV.log**68
+OpenInteriors.asi**167424
+OpenInteriors.ini**1985
+OpenIV.asi**135168
+OpenIV.log**561562
+Origins.ini**273
+Other V1.ini**1529
+Other V2.ini**1446
+Other V3.ini**1671
+PackfileLimitAdjuster.asi**61952
+PackfileLimitAdjuster.ini**234
+POV.ini**3517
+README.txt**3151
+Redux Light.ini**2445
+Redux Original.ini**3105
+Redux Ultra V1.ini**1416
+Redux Ultra V2.ini**3270
+Redux Ultra V3.ini**3137
+reference.txt**41219
+ReShadePreset.ini**5500
+ScriptHookV.dll**1440768
+ScriptHookV.log**54212
+ScriptHookVDotNet.asi**104960
+ScriptHookVDotNet.ini**33
+ScriptHookVDotNet.log**4779
+ScriptHookVDotNet2.dll**1026560
+ScriptHookVDotNet2.xml**687584
+ScriptHookVDotNet3.dll**867328
+ScriptHookVDotNet3.xml**1014347
+scripts**0
+addins**0
+basemodule.lua**152
+exampleGUI.lua**546
+Bad boys files**0
+RecentCrimes.txt**15
+Vehicles**0
+Bass.Net.dll**663552
+ClearScript.dll**285696
+CriminalsV.ini**332
+CriminalsV.ndll**919040
+CriminalsV.nibmod**18
+dancaDuCaixao script files**0
+dancaDuCaixao.ini**766
+dancarinos_100.ini**556
+dancarinos_101.ini**556
+dancarinos_102.ini**556
+dancarinos_103.ini**556
+dancarinos_104.ini**556
+dancarinos_105.ini**556
+musica.wav**4088012
+dancaDuCaixao.ndll**1028608
+dancaDuCaixao.nibmod**30
+Dance.ini**23
+DanceMenu.dll**31744
+DBZ-NibStyle.ndll**1330688
+DBZ-NibStyle.nibmod**31
+DBZns Files**0
+Characters**0
+char_0default.ini**914
+char_gokuQuechus S.ini**911
+char_gokuQuechus SS.ini**914
+char_gokuQuechus SS2.ini**915
+char_gokuQuechus SS3.ini**915
+char_gokuRarefacer S.ini**924
+char_gokuRarefacer SS4.ini**928
+char_gokuRarefacer SS5.ini**930
+char_gokuRarefacer SS6.ini**930
+char_gokuRarefacer SS7.ini**930
+char_gokuRarefacer SS8.ini**984
+char_rareGoku.ini**1006
+DBZ-NibStyle.ini**941
+Images**0
+backG.png**1241894
+crosshair.png**26483
+destructoDisc.png**448460
+genkiDama.png**456237
+kamehameha.png**452619
+kiBlast.png**420829
+powers_bg.png**142567
+wpSign.png**8896
+wpSpin.png**21525
+Sounds**0
+auraBlast.mp3**35944
+auraBlast.wav**59950
+desDisc_flightLoop.mp3**39288
+desDisc_flightLoop.wav**106710
+desDisc_shoot.mp3**19226
+desDisc_shoot.wav**51078
+desDisc_startup.mp3**73979
+desDisc_startup.wav**202890
+flight_loop.mp3**49319
+flight_loop.wav**82480
+flight_start.mp3**18390
+flight_start.wav**30124
+flight_start_fast.mp3**19644
+flight_start_fast.wav**32314
+flight_start_fast2.mp3**28839
+flight_start_fast2.wav**47576
+genkiDama_charge.mp3**146367
+genkiDama_charge.wav**42434
+genkiDama_shoot.mp3**109505
+genkiDama_shoot.wav**301268
+genkiDama_shootLoop.mp3**61858
+genkiDama_shootLoop.wav**169104
+kame_s1.mp3**21734
+kame_s1.wav**35478
+kame_s2.mp3**19644
+kame_s2.wav**31982
+kame_s3.mp3**27585
+kame_s3.wav**45146
+kame_shoot.mp3**118700
+kame_shoot.wav**326344
+kame_start.mp3**256627
+kame_start.wav**708936
+kiAuraLoop.mp3**35944
+kiAuraLoop.wav**59780
+kiBlast.mp3**12957
+kiBlast.wav**33548
+kiBlastCharge.mp3**25078
+kiBlastCharge.wav**66890
+kiEnergy.mp3**18808
+kiEnergy.wav**30510
+landing_end.mp3**13793
+landing_end.wav**21876
+landing_start.mp3**15047
+landing_start.wav**24358
+punch_1.mp3**6269
+punch_1.wav**9202
+punch_2.mp3**7105
+punch_2.wav**10554
+punch_3.mp3**12121
+punch_3.wav**19188
+punch_final_1.mp3**24242
+punch_final_1.wav**39848
+punch_final_2.mp3**22988
+punch_final_2.wav**37420
+punch_final_3.mp3**22988
+punch_final_3.wav**61106
+punch_m_1.mp3**6687
+punch_m_1.wav**9912
+punch_m_2.mp3**5851
+punch_m_2.wav**8432
+punch_m_3.mp3**7523
+punch_m_3.wav**11530
+teleport.mp3**15047
+teleport.wav**38926
+victim_fall_1.mp3**73143
+victim_fall_1.wav**123044
+victim_fall_2.mp3**73143
+victim_fall_2.wav**201070
+DirectShowLib-2005.dll**282624
+Dismemberment.dll**13312
+DismembermentWeapons.cfg**492
+Dragons files**0
+afb_1.wav**212012
+afb_2.wav**253484
+afb_3.wav**290348
+afb_4.wav**207404
+afb_5.wav**207404
+a_1.wav**930860
+a_2.wav**930860
+a_3.wav**930860
+a_4.wav**912428
+a_5.wav**912428
+DragonsV.ini**176
+sm_afb_1.wav**129064
+sm_afb_2.wav**152108
+sm_afb_3.wav**170540
+sm_afb_4.wav**124460
+sm_afb_5.wav**124460
+sm_a_1.wav**529964
+sm_a_2.wav**529964
+sm_a_3.wav**529964
+sm_a_4.wav**520744
+sm_a_5.wav**520744
+sm_s_1.wav**428584
+sm_s_2.wav**447020
+sm_s_3.wav**350252
+sm_s_4.wav**350252
+s_1.wav**751144
+s_2.wav**790800
+s_3.wav**603692
+s_4.wav**603692
+wingFlap_1.wav**304168
+wingFlap_2.wav**230444
+wingFlap_3.wav**230444
+DragonsV.ini**3005
+DragonsV.ndll**909312
+DragonsV.nibmod**9
+DragonsV_log.txt**81
+EnableAllinteriors.dll**855552
+EnableAllInteriors.ini**7992
+FreezeTime.dll**12288
+FreezeTime.ini**22
+Green Goblin Glider files**0
+accel.wav**202076
+burst.wav**200112
+idle.wav**246986
+mg.wav**86444
+Suits**0
+gg_suit_3.ini**416
+gg_suit_4.ini**412
+GreenGoblin.ini**385
+GreenGoblin.ndll**280576
+GreenGoblin.nibmod**30
+HULK v2 Files**0
+HULKv2.ini**2399
+Images**0
+cr.png**6082
+Sounds**0
+atomicSlam_exp.mp3**128256
+atomicSlam_exp.wav**769580
+atomicSlam_shout.mp3**22935
+atomicSlam_shout.wav**126474
+atomicSlam_start.mp3**66816
+atomicSlam_start.wav**400940
+atomicSlam_startShout.mp3**23352
+atomicSlam_startShout.wav**128772
+attack_1.mp3**13761
+attack_1.wav**71468
+attack_2.mp3**12093
+attack_2.wav**62252
+attack_3.mp3**16680
+attack_3.wav**87594
+attack_4.mp3**16263
+attack_4.wav**85290
+exp_1.mp3**49536
+exp_1.wav**297260
+exp_2.mp3**58368
+exp_2.wav**350252
+exp_3.mp3**44160
+exp_3.wav**265004
+shout_1.mp3**37113
+shout_1.wav**200490
+shout_2.mp3**36279
+shout_2.wav**195884
+smash.mp3**26688
+smash.wav**142890
+step_1.mp3**21684
+step_1.wav**41838
+step_2.mp3**20433
+step_2.wav**40504
+step_f_1.mp3**21684
+step_f_1.wav**46274
+step_f_2.mp3**20433
+step_f_2.wav**49328
+thunder_clap_hit.mp3**68352
+thunder_clap_hit.wav**410156
+Suits**0
+suit_0default.ini**709
+HULK v3 Files**0
+HULKv3.ini**3226
+Images**0
+atomicSlam.png**381408
+cr.png**6082
+finalizations**0
+background.png**1961746
+headRipOff (10).jpg**8898
+headRipOff (11).jpg**8763
+headRipOff (12).jpg**8779
+headRipOff (13).jpg**8756
+headRipOff (14).jpg**8825
+headRipOff (15).jpg**8780
+headRipOff (16).jpg**8638
+headRipOff (17).jpg**8701
+headRipOff (18).jpg**8817
+headRipOff (19).jpg**8716
+headRipOff (2).jpg**8913
+headRipOff (20).jpg**8818
+headRipOff (21).jpg**8804
+headRipOff (22).jpg**8799
+headRipOff (23).jpg**8785
+headRipOff (24).jpg**8817
+headRipOff (25).jpg**8815
+headRipOff (26).jpg**8821
+headRipOff (27).jpg**8793
+headRipOff (28).jpg**8774
+headRipOff (3).jpg**8938
+headRipOff (4).jpg**8761
+headRipOff (5).jpg**8784
+headRipOff (6).jpg**8739
+headRipOff (7).jpg**8844
+headRipOff (8).jpg**8802
+headRipOff (9).jpg**8858
+headRipOff.jpg**9200
+smashOnGround (10).jpg**7160
+smashOnGround (11).jpg**7193
+smashOnGround (12).jpg**7242
+smashOnGround (13).jpg**6676
+smashOnGround (14).jpg**6655
+smashOnGround (15).jpg**6750
+smashOnGround (16).jpg**6964
+smashOnGround (17).jpg**7108
+smashOnGround (18).jpg**7111
+smashOnGround (19).jpg**7133
+smashOnGround (20).jpg**7028
+smashOnGround (21).jpg**7261
+smashOnGround (22).jpg**6920
+smashOnGround (23).jpg**6957
+smashOnGround (24).jpg**7027
+smashOnGround (25).jpg**7210
+smashOnGround (26).jpg**7294
+smashOnGround (27).jpg**7361
+smashOnGround (28).jpg**7216
+smashOnGround (29).jpg**7098
+smashOnGround (3).jpg**6896
+smashOnGround (30).jpg**6799
+smashOnGround (31).jpg**6834
+smashOnGround (32).jpg**7047
+smashOnGround (33).jpg**7242
+smashOnGround (34).jpg**7346
+smashOnGround (35).jpg**7402
+smashOnGround (36).jpg**7420
+smashOnGround (37).jpg**7429
+smashOnGround (4).jpg**6970
+smashOnGround (5).jpg**6713
+smashOnGround (6).jpg**6762
+smashOnGround (7).jpg**6782
+smashOnGround (8).jpg**6779
+smashOnGround (9).jpg**6997
+smashOnGround.jpg**6913
+splitInTwo (10).jpg**6426
+splitInTwo (11).jpg**6359
+splitInTwo (12).jpg**6346
+splitInTwo (13).jpg**6396
+splitInTwo (14).jpg**6360
+splitInTwo (15).jpg**6320
+splitInTwo (16).jpg**6181
+splitInTwo (17).jpg**6256
+splitInTwo (18).jpg**6215
+splitInTwo (19).jpg**6285
+splitInTwo (2).jpg**6313
+splitInTwo (20).jpg**6314
+splitInTwo (21).jpg**6315
+splitInTwo (22).jpg**6323
+splitInTwo (3).jpg**6297
+splitInTwo (4).jpg**6369
+splitInTwo (5).jpg**6354
+splitInTwo (6).jpg**6451
+splitInTwo (7).jpg**6462
+splitInTwo (8).jpg**6494
+splitInTwo (9).jpg**6528
+splitInTwo.jpg**6322
+fullRage.png**34867
+greenPower.png**1234
+headRipOff.png**567985
+health.png**503
+indicators.png**15975
+indicators_glow.png**31344
+mediumRage.png**23883
+normalRage.png**33777
+preview**0
+atomicSlam (10).jpg**15338
+atomicSlam (11).jpg**14978
+atomicSlam (12).jpg**15449
+atomicSlam (13).jpg**15615
+atomicSlam (14).jpg**16520
+atomicSlam (15).jpg**7793
+atomicSlam (16).jpg**10691
+atomicSlam (17).jpg**9828
+atomicSlam (18).jpg**7846
+atomicSlam (19).jpg**9554
+atomicSlam (2).jpg**15942
+atomicSlam (20).jpg**10459
+atomicSlam (21).jpg**11742
+atomicSlam (22).jpg**13912
+atomicSlam (23).jpg**16156
+atomicSlam (24).jpg**16610
+atomicSlam (25).jpg**16397
+atomicSlam (26).jpg**16577
+atomicSlam (27).jpg**16422
+atomicSlam (28).jpg**16440
+atomicSlam (29).jpg**16403
+atomicSlam (3).jpg**15112
+atomicSlam (30).jpg**16348
+atomicSlam (31).jpg**16382
+atomicSlam (32).jpg**16488
+atomicSlam (33).jpg**16458
+atomicSlam (34).jpg**16401
+atomicSlam (4).jpg**15468
+atomicSlam (5).jpg**15413
+atomicSlam (6).jpg**16106
+atomicSlam (7).jpg**16128
+atomicSlam (8).jpg**15892
+atomicSlam (9).jpg**15593
+atomicSlam.jpg**16419
+background.png**1961746
+rageBoost (10).jpg**23150
+rageBoost (11).jpg**23255
+rageBoost (12).jpg**23254
+rageBoost (13).jpg**23478
+rageBoost (14).jpg**16113
+rageBoost (15).jpg**12417
+rageBoost (16).jpg**11234
+rageBoost (17).jpg**11274
+rageBoost (18).jpg**11290
+rageBoost (19).jpg**12767
+rageBoost (2).jpg**24178
+rageBoost (20).jpg**15210
+rageBoost (21).jpg**14853
+rageBoost (22).jpg**14087
+rageBoost (23).jpg**13374
+rageBoost (24).jpg**14158
+rageBoost (25).jpg**14564
+rageBoost (26).jpg**16287
+rageBoost (27).jpg**17342
+rageBoost (28).jpg**23535
+rageBoost (29).jpg**24845
+rageBoost (3).jpg**22758
+rageBoost (30).jpg**24872
+rageBoost (31).jpg**25109
+rageBoost (4).jpg**22734
+rageBoost (5).jpg**22950
+rageBoost (6).jpg**22951
+rageBoost (7).jpg**23047
+rageBoost (8).jpg**22882
+rageBoost (9).jpg**22857
+rageBoost.jpg**24595
+rockThrow (10).jpeg**19386
+rockThrow (11).jpeg**16917
+rockThrow (12).jpeg**17324
+rockThrow (13).jpeg**17752
+rockThrow (14).jpeg**18870
+rockThrow (15).jpeg**19316
+rockThrow (16).jpeg**18440
+rockThrow (17).jpeg**18137
+rockThrow (18).jpeg**18307
+rockThrow (19).jpeg**18348
+rockThrow (2).jpeg**19765
+rockThrow (20).jpeg**18255
+rockThrow (21).jpeg**18395
+rockThrow (22).jpeg**18723
+rockThrow (23).jpeg**19159
+rockThrow (24).jpeg**18148
+rockThrow (25).jpeg**18529
+rockThrow (26).jpeg**19073
+rockThrow (27).jpeg**18937
+rockThrow (28).jpeg**19303
+rockThrow (29).jpeg**19171
+rockThrow (3).jpeg**19701
+rockThrow (30).jpeg**19153
+rockThrow (31).jpeg**19190
+rockThrow (32).jpeg**19120
+rockThrow (33).jpeg**19168
+rockThrow (34).jpeg**19202
+rockThrow (35).jpeg**19143
+rockThrow (36).jpeg**19185
+rockThrow (37).jpeg**19138
+rockThrow (38).jpeg**19205
+rockThrow (39).jpeg**19257
+rockThrow (4).jpeg**19564
+rockThrow (5).jpeg**19622
+rockThrow (6).jpeg**19732
+rockThrow (7).jpeg**19405
+rockThrow (8).jpeg**19546
+rockThrow (9).jpeg**19251
+rockThrow.jpeg**19783
+thunderClap (10).jpg**21887
+thunderClap (11).jpg**21899
+thunderClap (12).jpg**21903
+thunderClap (13).jpg**22214
+thunderClap (14).jpg**18041
+thunderClap (15).jpg**19252
+thunderClap (16).jpg**19373
+thunderClap (17).jpg**20807
+thunderClap (18).jpg**21098
+thunderClap (19).jpg**18711
+thunderClap (2).jpg**21805
+thunderClap (20).jpg**17530
+thunderClap (21).jpg**17114
+thunderClap (22).jpg**17773
+thunderClap (23).jpg**19808
+thunderClap (24).jpg**20142
+thunderClap (25).jpg**20107
+thunderClap (26).jpg**19740
+thunderClap (27).jpg**19188
+thunderClap (28).jpg**19172
+thunderClap (29).jpg**19732
+thunderClap (3).jpg**21770
+thunderClap (30).jpg**20139
+thunderClap (31).jpg**20161
+thunderClap (32).jpg**20205
+thunderClap (4).jpg**21790
+thunderClap (5).jpg**21771
+thunderClap (6).jpg**21787
+thunderClap (7).jpg**21785
+thunderClap (8).jpg**21794
+thunderClap (9).jpg**21848
+thunderClap.jpg**20303
+rageBoost.png**273732
+rockThrow.png**184553
+smashOnGround.png**458753
+splitInTwo.png**537762
+thunderClap.png**402329
+Sounds**0
+atomicSlam_exp.mp3**128256
+atomicSlam_exp.wav**769580
+atomicSlam_shout.mp3**22935
+atomicSlam_shout.wav**126474
+atomicSlam_start.mp3**66816
+atomicSlam_start.wav**400940
+atomicSlam_startShout.mp3**23352
+atomicSlam_startShout.wav**128772
+attack_1.mp3**13761
+attack_1.wav**71468
+attack_2.mp3**12093
+attack_2.wav**62252
+attack_3.mp3**16680
+attack_3.wav**87594
+attack_4.mp3**16263
+attack_4.wav**85290
+exp_1.mp3**49536
+exp_1.wav**297260
+exp_2.mp3**58368
+exp_2.wav**350252
+exp_3.mp3**44160
+exp_3.wav**265004
+head_rip_off.wav**147864
+Hulk_Roar.mp3**50311
+Hulk_Roar.pk**6544
+Hulk_Roar.wav**544450
+neck_snap_1.wav**49424
+neck_snap_2.wav**89876
+neck_snap_3.wav**74276
+shout_1.mp3**37113
+shout_1.wav**200490
+shout_2.mp3**36279
+shout_2.wav**195884
+smash.mp3**26688
+smash.wav**142890
+step_1.mp3**21684
+step_1.wav**41838
+step_2.mp3**20433
+step_2.wav**40504
+step_f_1.mp3**21684
+step_f_1.wav**46274
+step_f_2.mp3**20433
+step_f_2.wav**49328
+thunder_clap_hit.mp3**68352
+thunder_clap_hit.wav**410156
+Suits**0
+Abomination.ini**4209
+BruceBanner.ini**4168
+EmilBlonsky.ini**4168
+GeneralRoss.ini**3264
+Hulk(AgeOfUltron).ini**4510
+Hulk(Avengers).ini**4575
+suit_0default.ini**2427
+TheIncredibleHulk.ini**3517
+VinDiesel.ini**3460
+titleBG.png**70662
+HULKv2.ndll**1384960
+HULKv2.nibmod**7
+HULKv3.ndll**1740288
+HULKv3.nibmod**7
+IronmanV Files**0
+armors**0
+hammerDrone.png**105147
+markiii.png**84067
+miniHulkBuster.png**89037
+MK50_MFF_armor.ini**2809
+MK85_armor.ini**2897
+tNIB.1_keep_playerchar_armor.ini**2092
+tNIB.1_keep_playerchar_noMetalFX_armor.ini**2107
+tNIB.1_RSRanger_armor.ini**2095
+Tony Strak MK85_armor.ini**2098
+war_machine.png**89535
+HUD**0
+background.png**71954
+comunic.png**21973
+crep.png**29541
+crosshair.png**41281
+crosshair_ts.png**13752
+damage.png**34857
+damage2.png**34909
+darts.png**18221
+diag.png**21528
+first_person_extra.png**170634
+flameT.png**22463
+flight_mode.png**19286
+flight_speed.png**22157
+heading.png**20762
+hrep.png**27250
+hud v2**0
+comunic.png**15500
+crosshair.png**27133
+crosshair_r.png**20673
+crosshair_ts.png**26166
+data1.png**16266
+diag.png**16234
+flight_mode.png**14508
+flight_speed.png**15065
+heading.png**15314
+im hud spin 1.psd**392136
+im hud.psd**18696083
+left_side.png**89354
+left_side_bt.png**13331
+right_side.png**301322
+right_side_b.png**403201
+right_side_b_g.png**13331
+spin_left_top.png**79898
+target set.psd**90619
+machinegun.png**16357
+rockets.png**21232
+TargetHUD_step_1.png**34346
+target_ind.png**22791
+titleBG.png**63452
+warning.png**17266
+IronmanV.ini**1283
+j_c.wav**111368
+j_c2.wav**151492
+j_c3.wav**234916
+j_c4.wav**168784
+j_enemy_alert.wav**260604
+j_warning.wav**99716
+j_warning2.wav**244824
+j_warning3.wav**145812
+minigun start.wav**68080
+repulsorBlast.wav**326686
+repulsorStart.wav**95234
+shoot start.wav**12864
+shooting.wav**251008
+sounds**0
+darts shoot.wav**59308
+flight end.wav**53096
+flight startup.wav**68026
+land_1.wav**112042
+land_2.wav**138098
+land_3.wav**75440
+land_4.wav**96190
+repulsor chest_1.wav**217086
+repulsor chest_2.wav**434128
+repulsor chest_3.wav**434128
+repulsor_h1.wav**121636
+repulsor_h2.wav**209780
+repulsor_h3.wav**386156
+weapon startup.wav**67164
+spin loop.wav**584792
+IronmanV Files (v3 E.G.)**0
+beam_prop.ini**92
+Images**0
+background.png**1426398
+crosshair.png**8988
+crosshairV1.png**16145
+crosshairV2.png**20004
+crosshairV3.png**20240
+enemyIndicator.png**146009
+enemyIndicatorRed.png**111677
+energyBlasters.png**38846
+energyBlasters_name.png**7915
+energyBlasters_x2.png**54865
+energyBlasters_x2_name.png**8336
+hand_dart.png**18898
+hand_dart_name.png**5565
+hand_jericho.png**25609
+hand_jericho_name.png**7570
+hand_jericho_td.png**33419
+hand_jericho_td_name.png**10269
+hand_machinegun.png**14538
+hand_machinegun_explosive.png**44523
+hand_machinegun_explosive_name.png**10389
+hand_machinegun_flammable.png**27499
+hand_machinegun_flammable_name.png**9613
+hand_machinegun_name.png**6641
+hand_missile.png**30013
+hand_missile_name.png**6508
+HUD Options**0
+background.png**1397943
+crosshairOff.png**43448
+crosshairOn.png**47406
+crosshairV0.png**28761
+crosshairV1.png**36778
+crosshairV2.png**40692
+crosshairV3.png**28200
+hudOff.png**16835
+hudOn.png**16168
+hudVersion1.png**44228
+hudVersion2.png**74693
+hudVersion3.png**66556
+showEnemiesOff.png**24119
+showEnemiesOn.png**36008
+targetInfoAlways.png**38484
+targetInfoNever.png**34661
+targetInfoOnAim.png**41432
+HUDs**0
+v1**0
+background.png**71954
+backgroundW.png**45037
+comunic.png**21973
+crep.png**29541
+crosshair.png**41281
+crosshair_ts.png**13752
+damage.png**34857
+damage2.png**34909
+darts.png**18221
+diag.png**21528
+first_person_extra.png**170634
+flameT.png**22463
+flight_mode.png**19286
+flight_speed.png**22157
+heading.png**20762
+hrep.png**27250
+machinegun.png**16357
+melee_type.png**3544
+rockets.png**21232
+TargetHUD_step_1.png**34346
+target_ind.png**22791
+threp.png**27415
+titleBG.png**63452
+warning.png**17266
+v2**0
+comunic.png**15500
+crosshair.png**27133
+crosshair_r.png**20673
+crosshair_ts.png**26166
+data1.png**16266
+diag.png**16234
+flight_mode.png**14508
+flight_speed.png**15065
+heading.png**15314
+left_side.png**93345
+left_side_bt.png**267511
+melee_type.png**4972
+right_side.png**301322
+right_side_b.png**564205
+right_side_b_g.png**527325
+spin_left_top.png**79898
+v3**0
+0.png**4154
+1.png**3765
+2.png**4604
+3.png**4517
+4.png**4145
+5.png**4408
+6.png**4375
+7.png**4051
+8.png**4474
+9.png**4410
+bottom left info.png**77559
+damage.png**34857
+damage2.png**34909
+h3_bar.png**3361
+h3_bar2.png**3549
+h3_CrossHair.png**20240
+h3_HBI1.png**9214
+h3_HBI12.png**9697
+h3_HBI2.png**9857
+h3_HBI22.png**10465
+h3_HBI22_spin.png**13719
+h3_HBI2_spin.png**13222
+h3_HBI3.png**9291
+h3_HBI32.png**9069
+h3_HBI33.png**9069
+h3_HBI34.png**9381
+h3_HBI4.png**10326
+h3_HBI42.png**9645
+h3_HBI5.png**10881
+h3_HBI52.png**14505
+h3_HUD.png**154868
+h3_HUD4.png**193888
+h3_HUDBOTTOM.png**23258
+h3_HUDLEFT FlightMode.png**121119
+h3_HUDLEFT MissileAlarm.png**70712
+h3_HUDLEFT.png**96712
+h3_HUDLEFT_lowEnergy.png**70049
+h3_HUDLEFT_lowHealth.png**50507
+h3_HUDRIGHT.png**630820
+h3_HUDRIGHT_Damage.png**172479
+h3_HUDRIGHT_flight_mode.png**101716
+h3_HUDRIGHT_targetSet.png**10385
+h3_HUDRING.png**169971
+h3_HUDTOP.png**53569
+h3_Thruster Bar.png**5928
+h3_wselect.png**630469
+melee_desthands.png**35188
+melee_desthands_name.png**10071
+melee_hands.png**18690
+melee_hands_name.png**8233
+melee_swords.png**24732
+melee_swords_name.png**8493
+repulsor_back.png**35818
+repulsor_backEnergy.png**49813
+repulsor_backEnergy_name.png**9285
+repulsor_back_name.png**7997
+repulsor_chest.png**44922
+repulsor_chest_name.png**7699
+repulsor_hands_b.png**25356
+repulsor_hands_b_name.png**10123
+repulsor_hands_l.png**26036
+repulsor_hands_l_name.png**8838
+repulsor_hands_r.png**23970
+repulsor_hands_rnd.png**32472
+repulsor_hands_rnd_name.png**9380
+repulsor_hands_r_name.png**9290
+target.png**7602
+IronmanV3EG.ini**4384
+models_replace.txt**325
+Sounds**0
+armor_equip_ini.wav**543100
+armor_move_1.wav**109004
+armor_move_2.wav**146156
+bb_charge.wav**650084
+bb_shoot.wav**224364
+beam loop.wav**2581452
+boost_move_start.wav**493792
+bullet_hit_1.wav**147772
+bullet_hit_2.wav**120560
+bullet_hit_3.wav**148420
+bullet_hit_4.wav**148420
+bullet_hit_5.wav**147772
+darts shoot.wav**129052
+energyBeam_chargeStep_1.wav**72572
+energyBeam_chargeStep_2.wav**63920
+energyBeam_chargeStep_3.wav**56300
+energyBeam_chargeStep_4.wav**700456
+engine_brake.wav**171886
+engine_fast.wav**657484
+engine_fast2.wav**657484
+engine_fast3.wav**657484
+engine_fast_accel.wav**793136
+engine_fast_accel2.wav**793136
+engine_fast_fade.wav**193366
+engine_fast_inc.wav**207918
+engine_idle.wav**1570190
+engine_idle2.wav**1570190
+engine_idle_fade.wav**226066
+engine_med.wav**862606
+engine_med2.wav**862606
+engine_med_accel.wav**794078
+engine_med_accel2.wav**794078
+engine_med_fade.wav**146150
+engine_slow.wav**1480410
+engine_slow2.wav**1480410
+engine_slow_fade.wav**211034
+flight end.wav**115532
+flight startup.wav**148032
+Jarvis and friends**0
+j_c.wav**111368
+j_c2.wav**151492
+j_c3.wav**234916
+j_c4.wav**168784
+j_c_mono.wav**82634
+j_enemy_alert.wav**260604
+j_warning.wav**99716
+j_warning2.wav**244824
+j_warning3.wav**145812
+jericho_splits.wav**216246
+landing stone crack.wav**164172
+landing1.wav**209340
+land_1.wav**243848
+land_2.wav**300568
+land_3.wav**164172
+land_4.wav**209340
+lowEnergy.wav**128908
+melee_hit_1.wav**191792
+melee_hit_2.wav**123860
+metal_hit_1.wav**256676
+metal_hit_2.wav**249996
+nanoCreate.wav**238996
+nanoDestroy.wav**238996
+repulsor chest.wav**472516
+repulsor chest_1.wav**472516
+repulsor chest_2.wav**472516
+repulsor chest_3.wav**472516
+repulsor_h1.wav**264732
+repulsor_h2.wav**228328
+repulsor_h3.wav**420300
+repulsor_shoot_1.wav**147516
+repulsor_shoot_2.wav**152016
+repulsor_shoot_3.wav**172616
+repulsor_start_1.wav**117260
+repulsor_start_2.wav**123120
+repulsor_start_3.wav**113740
+setTargets.wav**232916
+shoot_dart.wav**136252
+shoot_missile.wav**280084
+step_hitground.wav**57244
+step_start.wav**120332
+suit_finishEquip.wav**322996
+sword_m_hit_1.wav**135580
+sword_m_hit_2.wav**124484
+sword_m_hit_3.wav**135580
+sword_p_hit_1.wav**124492
+sword_p_hit_2.wav**124484
+sword_p_hit_3.wav**124484
+weapon startup.wav**146156
+Suits**0
+0default.ini**8068
+MK85 by Kwabz.ini**8170
+noSuitImg.png**20148
+suitImgError.png**21548
+suit_MK85_1.ini**8567
+titleBG.png**62080
+IronmanV.ndll**1187328
+IronmanV.nibmod**18
+IronmanV3EG.ndll**1780736
+IronmanV3EG.nibmod**11
+irrKlang.NET4.dll**599040
+Jetpack Files**0
+minigun start.wav**68080
+shoot start.wav**12864
+shooting.wav**251008
+spin loop.wav**584792
+Jetpack.ini**467
+Jetpack.ndll**174592
+Jetpack.nibmod**16
+keys.lua**3225
+libs**0
+GUI.lua**2931
+Magneto**0
+Images**0
+background.png**506382
+bullet_shield.png**38625
+crosshair.png**8988
+EMP.png**72687
+grabMode.png**68238
+magnetize.png**32806
+masskill.png**34108
+stab.png**58569
+target.png**7602
+windTurbineSmash.png**25083
+Magneto.ini**3124
+MetalPeds**0
+metalPed_1.ini**65
+metalPed_2.ini**58
+what to put here.txt**363
+metalThings.txt**4458
+Sounds**0
+bul_imp_1.wav**68092
+bul_imp_2.wav**73980
+bul_imp_3.wav**82788
+EMP_charge.wav**1572616
+EMP_exp.wav**779972
+floatThings.wav**1448644
+ricoch_1.wav**99956
+ricoch_2.wav**76960
+ricoch_3.wav**128540
+ricoch_4.wav**166232
+ripBigObjects.wav**136704
+smashEnt.wav**1382636
+throw_big_1.wav**138844
+throw_big_2.wav**130628
+throw_big_3.wav**138844
+throw_small_1.wav**59076
+throw_small_2.wav**65336
+throw_small_3.wav**65336
+throw_small_4.wav**75624
+Suits**0
+suit_0default.ini**537
+suit_Magneto1.ini**562
+weapons.txt**1703
+Magneto.ndll**1440768
+Magneto.nibmod**7
+main.lua**3312
+Maneater script files**0
+Images**0
+crosshair.png**29736
+targetIndicator.png**5390
+targetIndicatorSec.png**5390
+Maneater.ini**1558
+Sounds**0
+bite_1.wav**214144
+bite_1_u.wav**366128
+bite_1_u_b.wav**214144
+bite_1_u_b2.wav**214144
+bite_2_u.wav**124052
+bite_2_u_b.wav**113976
+bite_2_u_b2.wav**113976
+bite_3_u.wav**212304
+bite_3_u_b.wav**195056
+bite_3_u_b2.wav**195056
+move_1.wav**142648
+move_1_u.wav**504388
+move_2.wav**133372
+move_2_u.wav**504388
+move_3.wav**111188
+move_3_u.wav**504388
+split_1.wav**336388
+split_1_u.wav**336388
+split_2.wav**336388
+split_2_u.wav**336388
+tail_hit.wav**316788
+tail_hit_1_u.wav**316788
+tail_hit_2_u.wav**366128
+tail_hit_metal.wav**336380
+Suits**0
+a Crocodile.ini**839
+a Great White Shark (Saws).ini**793
+a Megalodon.ini**866
+a tiger 1.ini**773
+a tiger 2.ini**530
+a tiger 3.ini**530
+b hammer 1.ini**530
+b hammer 2.ini**532
+b hammer 3.ini**618
+c dolphin.ini**619
+c killerwhale.ini**628
+titleBG.png**63013
+Maneater.ndll**1006080
+Maneater.nibmod**8
+MapEditor**0
+American.xml**255958
+Chinese.xml**257313
+crosshair.png**1171
+crosshair_blue.png**2077
+crosshair_yellow.png**1993
+French.xml**265153
+German.xml**261168
+Italian.xml**260389
+Japanese.xml**268298
+Mexican.xml**260454
+Russian.xml**20503
+Spanish.xml**260814
+MapEditor.dll**171520
+MapEditor.xml**903
+Meteors.ini**561
+Meteors.ndll**737280
+Meteors.nibmod**22
+NativeUI.dll**97792
+NativeUI.xml**40037
+NAudio.dll**479232
+NAudio.xml**990727
+NIBMods**0
+Teams**0
+Superman V2.ally**7
+Thor by JulioNIB.ally**6
+NIBMods.net.ndll**1466368
+NIBNews.ini**23
+NIBScripts.ini**4187
+NIB_Patreon.ini**244
+ObjectList.ini**439567
+PedList.ini**16467
+PedSelector.dll**8704
+Predator script files**0
+Images**0
+background.png**494230
+cannon.png**161636
+combistick.png**155846
+crosshair.png**3967
+disc.png**199266
+hook.png**114750
+HUD_bg_action.png**80183
+HUD_bg_cloak.png**218558
+HUD_bg_idle.png**89865
+HUD_cloak_off.png**14177
+HUD_cloak_on.png**14753
+HUD_energy.png**26484
+HUD_extra.png**16326
+hud_right_triangle_1.png**12221
+hud_right_triangle_2.png**12759
+hud_right_triangle_3.png**13452
+hud_right_triangle_base.png**26706
+rage_lvl_1.png**31549
+rage_lvl_2.png**15467
+rage_lvl_3.png**32603
+removeSkin.png**107598
+shuriken.png**149436
+target.png**9596
+TBomb.png**97475
+Predator.ini**3176
+Sounds**0
+camouflage_off.wav**255836
+camouflage_on.wav**199172
+cannonExp_1.wav**263912
+cannonExp_2.wav**263912
+cannonShoot_1.wav**192140
+cannonShoot_2.wav**263912
+claws_off.wav**72308
+claws_on.wav**53408
+combiOff.wav**136916
+combiOn.wav**127268
+combiThrow_1.wav**59946
+combiThrow_2.wav**65192
+combiThrow_3.wav**119848
+combiThrow_impact.wav**178772
+combiThrow_metalImpact.wav**178772
+disc_flight.wav**988824
+disc_reattach.wav**99776
+disc_startup.wav**444432
+disc_throw.wav**421276
+shout_1.pk**9184
+shout_1.wav**775988
+shuriken_reattach.wav**85580
+shuriken_spin.wav**133656
+shuriken_startup.wav**130068
+shuriken_throw.wav**82812
+spineSurgery_ripoff.wav**230420
+spineSurgery_start.wav**68224
+stab_1.wav**435312
+stab_2.wav**240672
+stab_3.wav**240672
+stab_4.wav**446840
+TBombCounter.wav**2299576
+TBombExp.wav**451324
+TBombExp2.wav**696000
+TBombLaugh.wav**957744
+TBombStartup.wav**199936
+thermalVis_disable.wav**105788
+thermalVis_enable.wav**159200
+thermalVis_loop.pk**29680
+thermalVis_loop.wav**2523784
+voice_noise_1.sfk**4240
+voice_noise_1.wav**534468
+voice_noise_2.wav**574476
+voice_noise_3.wav**570196
+Suits**0
+suit_0default.ini**741
+suit_Berserker_Pred.ini**770
+suit_predator.ini**825
+suit_predator_cl.ini**811
+suit_predator_claw.ini**815
+suit_predator_DR.ini**764
+suit_predator_dwhs.ini**815
+suit_predator_nomask.ini**849
+Predator.ndll**1200640
+Predator.nibmod**8
+Readme - About dismemberment.txt**508
+README.txt**3739
+ScriptCommunicator.dll**31744
+ScriptCommunicator.ini**213
+ScriptHookVDotNet.ini**33
+ScriptHookVDotNet2.xml**687584
+ScriptHookVDotNet3.xml**1014347
+SharkOMatic.ini**137
+SharkOMatic.ndll**148480
+SharkOMatic.nibmod**22
+SittingMod.dll**13824
+Superman files**0
+flightCharge.wav**870952
+flightCharge2.wav**112940
+freeze_1.wav**248876
+freeze_2.wav**159018
+freeze_3.wav**188968
+freeze_attack_1.wav**534572
+freeze_attack_2.wav**534572
+freeze_attack_3.wav**493096
+freeze_break_1.wav**142892
+freeze_break_2.wav**117548
+freeze_break_3.wav**112940
+laser_1.wav**1046060
+melee_start_1.wav**29996
+melee_start_2.wav**25386
+melee_start_3.wav**59946
+melee_start_4.wav**29996
+Suits**0
+0_keepPlayerChar.ini**568
+Superman.ini**790
+supersonicEnd.wav**62252
+supersonicStart.wav**214316
+wind_attack_1.wav**269612
+wind_attack_2.wav**269612
+wind_attack_3.wav**285738
+xvision_end.wav**64554
+xvision_start.wav**179756
+Superman V2 script files**0
+Images**0
+background.png**1269504
+blastHeatVision.png**31289
+burnEyes.png**29880
+crosshair default.png**8988
+crosshair.png**11645
+energyBar.png**10058
+fireExtinguish.png**38885
+freezeWindBlow.png**32190
+heaDRipOff.png**33544
+healthBar.png**6744
+heartRipOff.png**34978
+heatVision.png**20119
+indicators.png**19283
+laserExplodeHead.png**31266
+laserSlice_half.png**39387
+laserSlice_head.png**38148
+melee_groundPunch.png**40425
+melee_midAirPunchSequence.png**42338
+melee_twoHandsPunch.png**36415
+melee_upperBlast.png**44403
+melee_upperSlice.png**44363
+melee_upperTakeDown.png**47288
+melee_upperTakeDownGroundPunch.png**57332
+melee_upperTakeDownLaser.png**46716
+melee_upperTakeDownLaserBlast.png**55837
+melee_upperTakeDownLaserSlice.png**55749
+melee_upperTakeDownLaserVaporize.png**61815
+melee_upperVaporize.png**45449
+powersIndIcon.png**11705
+preview**0
+punchs360.png**30879
+selectedBG.png**61384
+slicerHeatVision.png**32799
+solarFlare.png**28039
+superNotOk.png**33020
+superOk.png**35710
+superWindBlow.png**38011
+target.png**9539
+tornado.png**17177
+tornadoThrow.png**26804
+vaporizeHeatVision.png**60271
+weaponHeatUp.png**57096
+models_replace.txt**40
+Sounds**0
+bPunch_1.wav**48676
+bPunch_2.wav**42160
+burnEyesLoop.wav**1375724
+flightCharge.wav**870952
+flightCharge2.wav**112940
+flightCharge_loop.wav**3725900
+flightCharge_start.wav**419774
+freeze_1.wav**248876
+freeze_2.wav**159018
+freeze_3.wav**188968
+freeze_attack_1.wav**534572
+freeze_attack_2.wav**534572
+freeze_attack_3.wav**493096
+freeze_break_1.wav**142892
+freeze_break_2.wav**117548
+freeze_break_3.wav**112940
+glowingEyes_off.wav**94240
+glowingEyes_on.wav**94240
+head_ripoff.wav**307720
+head_smash.wav**342912
+hPunch_1.wav**140606
+hPunch_2.wav**158706
+jump_exp.wav**350252
+laserLoop1.wav**1504128
+laserLoop2.wav**1667336
+laserLoop3.wav**1504080
+laserLoop_normal.wav**1451276
+laser_cut.wav**216780
+laser_cut_metal.wav**617852
+laser_melt.wav**1069064
+laser_shortShot.wav**1483356
+laser_start_1.wav**460380
+laser_start_2_louder.wav**128612
+laser_start_normal.wav**460380
+laser_v1.wav**1046060
+melee_start_1.wav**29996
+melee_start_2.wav**25386
+melee_start_3.wav**59946
+melee_start_4.wav**29996
+punch_1.wav**93258
+punch_2.wav**84098
+punch_3.wav**92200
+solar_flare_charge.wav**294224
+solar_flare_exp.wav**594476
+soundLoad.wav**252950
+stab_end.wav**174246
+stab_start.wav**128676
+supersonicEnd.wav**62252
+supersonicStart.wav**214316
+superSonic_launch_1.wav**112940
+superWind_start.wav**539180
+weaponBreak.wav**194400
+wind_attack_1.wav**269612
+wind_attack_2.wav**269612
+wind_attack_3.wav**285738
+wind_end.wav**187516
+wind_freeze_attack_1.wav**373520
+wind_freeze_attack_2.wav**534572
+wind_freeze_attack_3.wav**497708
+wind_freeze_end.wav**258808
+wind_freeze_end2.wav**235480
+wind_freeze_loop.wav**966096
+wind_loop.wav**1335988
+xvision_end.wav**64554
+xvision_start.wav**179756
+Suits**0
+0_keepPlayerChar.ini**4237
+manOfSteelBlack.ini**2334
+suit_Brightburn.ini**5250
+suit_homelander_Dreadnot.ini**2611
+suit_superman_black_Dreadnot.ini**3263
+suit_Superman_JL_Dreadnot.ini**2576
+Superman V2.ini**5880
+titleBG.png**69806
+Superman V2.ndll**2077696
+Superman V2.nibmod**11
+Superman.ndll**1226240
+Superman.nibmod**15
+Thanos script files**0
+Cool screen fx for Time freeze.txt**146
+Images**0
+background.png**58588
+black_hole.png**57975
+change_gravity.png**48268
+cr.png**10138
+crosshair.png**25586
+fire_throw.png**30965
+fire_throw_state_empty.png**14118
+fire_throw_state_full.png**25133
+grab_head_rip_off.png**55080
+grab_neck_snap.png**34550
+grab_throw.png**48690
+ground_power_wave.png**51569
+infinity_beam.png**40985
+infinity_melee.png**59048
+meteor_throw.png**46507
+mind_control.png**33103
+mind_control_miniguns.png**36493
+mind_control_pistols.png**30240
+mind_control_rifles.png**38366
+mind_control_rpg.png**35965
+mind_control_superMelee.png**28508
+mind_stone.png**8019
+power_meter_bg.png**87457
+power_shoot.png**43449
+power_stone.png**8803
+power_wave.png**43191
+reality_stone.png**8817
+resurrect.png**29373
+snapFingers.png**47324
+soul_steal.png**41888
+soul_stone.png**8672
+space_stone.png**8731
+stone.png**17566
+stone_sel.png**21214
+sword.png**24908
+telekinesis_attack.png**40996
+telekinesis_attack_disarm.png**38221
+telekinesis_attack_peds.png**37111
+telekinesis_attack_vehicles.png**43195
+teleport_carCrash.png**42881
+theGlove.png**571432
+theGlove_attackMode.png**363641
+time_stone.png**8416
+turn_into_animal.png**35787
+turn_into_stone.png**39507
+turn_into_water.png**35394
+wpSign.png**6235
+wpSpin.png**16506
+link to download ped model.txt**144
+other Cool screen fx for Time freeze.txt**146
+Sounds**0
+blackHole_enter.wav**357616
+blackhole_loop.wav**418580
+create_portal.mp3**76032
+create_portal.wav**456236
+create_portal2.wav**326636
+create_portal3.wav**519944
+create_portal_instant.wav**139208
+exp_1.mp3**49536
+exp_1.pk**4720
+exp_1.wav**297260
+exp_2.mp3**58368
+exp_2.pk**5544
+exp_2.wav**350252
+exp_3.mp3**44160
+exp_3.pk**4216
+exp_3.wav**265004
+fire_throw_start.wav**2202628
+glove_sound.pk**6700
+glove_sound.wav**840086
+grab_with_mind_loop.wav**151744
+grab_with_mind_start.wav**560072
+ground_power_wave_shoot.wav**672812
+grSmash_hit.mp3**112128
+grSmash_hit.pk**7960
+grSmash_hit.wav**672812
+grSmash_start.mp3**66048
+grSmash_start.wav**396332
+gShoot_end.mp3**18432
+gShoot_end.wav**110636
+gShoot_loop.mp3**106752
+gShoot_loop.pk**7588
+gShoot_loop.wav**640556
+gShoot_loop2.mp3**237312
+gShoot_loop2.pk**16768
+gShoot_loop2.wav**1423916
+gShoot_start.mp3**13824
+gShoot_start.wav**82988
+head_rip_off.wav**147864
+infinity_beam_endE.wav**208632
+infinity_beam_shoot.wav**987712
+infinity_beam_start.wav**344080
+infinity_melee_hit.wav**529968
+jump.mp3**43776
+jump.wav**262700
+jump_charge.mp3**82944
+jump_charge.wav**497708
+meteor_bigExp.mp3**129792
+meteor_bigExp.pk**9208
+meteor_bigExp.wav**778796
+meteor_big_fall.mp3**489216
+meteor_big_fall.pk**34480
+meteor_big_fall.wav**2935340
+meteor_launch.mp3**32943
+meteor_launch.wav**363240
+meteor_small_fall.mp3**73728
+meteor_small_fall.wav**442412
+meteor_start.mp3**123648
+meteor_start.pk**8776
+meteor_start.wav**741932
+neck_snap_1.wav**49424
+neck_snap_2.wav**89876
+neck_snap_3.wav**74276
+power_wave_shoot.wav**672812
+power_wave_start.wav**434384
+snapFingers_snap.wav**1180898
+snapFingers_snap2.wav**787280
+steal_soul_shoot_loop.pk**7072
+steal_soul_shoot_loop.wav**654568
+step_1.mp3**21684
+step_1.wav**41838
+step_2.mp3**20433
+step_2.wav**40504
+stone_break.wav**173808
+stone_break_start.wav**197196
+sword_detach_ped.wav**43056
+sword_hit_metal.wav**225336
+sword_hit_ped_1.wav**102764
+sword_hit_ped_2.wav**98152
+sword_hit_ped_3.wav**95380
+sword_move_1.wav**162076
+sword_move_1_air.wav**162076
+sword_move_2.wav**177744
+sword_move_2_air.wav**177744
+sword_move_3.wav**150164
+sword_move_3_air.wav**150164
+telekinesis_attack.wav**357616
+teleport.mp3**42240
+teleport.wav**253484
+timeChange.wav**257996
+timeChangeOff.wav**243716
+timeChangeOff2.wav**330098
+timeChangeRev.wav**467832
+turn_intoStone_shootStart.wav**401288
+turn_into_stone.mp3**60672
+turn_into_stone.wav**360572
+turn_into_stone_shoot_loop.mp3**99072
+turn_into_stone_shoot_loop.pk**7060
+turn_into_stone_shoot_loop.wav**594476
+Untitled.wav**560072
+Suits**0
+Double_Ended_Sword**0
+w_me_crowbar.ydr**396340
+w_me_crowbar.ytd**9761747
+link to download ped model.txt**144
+suit_ThanosIW_big.ini**1057
+suit_ThanosS4.ini**1154
+suit_thanos_gotg.ini**1047
+suit_Thanos_keepPed.ini**1314
+sword.ini**32
+Thanos.ini**230
+titleBG.png**72499
+weapons.txt**222
+Thanos.ini**2850
+Thanos.ndll**1202176
+Thanos.nibmod**6
+Thanos_swords.ini**32
+TheGate script files**0
+Images**0
+background.png**467451
+cleave.png**137560
+crosshair.png**9363
+devastate.png**138719
+devour.png**218405
+flay.png**188226
+gorge.png**180305
+raze.png**205509
+selectedPower.png**40134
+sunder.png**132998
+target.png**7469
+torrent.png**127091
+Sounds**0
+attack_1.wav**97712
+attack_2.wav**113612
+attack_3.wav**98408
+attack_4.wav**89092
+chest_absorb.wav**254432
+chest_removeSkin.wav**214188
+chest_removeSkin_finish.wav**242192
+grab_and_absorb.wav**502728
+jump.wav**179756
+liquid_drown.wav**1165180
+liquid_jump.wav**179756
+liquid_melee.wav**188864
+smoke_melee.wav**352400
+smoke_sprint.wav**376356
+splitInTwo.wav**230420
+splitInTwo_L.wav**242192
+stab_1.wav**435312
+stab_2.wav**240672
+stab_3.wav**240672
+stab_4.wav**446840
+sword_detach_ped.wav**43056
+tornado.wav**2340904
+turn_into_smoke.wav**279864
+turn_into_solid.wav**409200
+veh_exp_suck.wav**277396
+Suits**0
+0default.ini**518
+theGate.ini**512
+TheGate.ini**2900
+TheGate.ndll**1398784
+TheGate.nibmod**7
+TheSpiderman script files**0
+crimes.txt**5353
+Images**0
+crime_report2.png**28288
+crime_report3.png**29738
+crime_report4.png**29432
+crosshair.png**2664
+crosshair_dest_set.png**2382
+crosshair_target_ind.png**4449
+crosshair_target_ind_spin.png**4252
+crosshair_target_set.png**5953
+HUD_fixed_itens.png**12590
+h_bar_10.png**5625
+h_bar_100.png**6300
+h_bar_20.png**5649
+h_bar_30.png**5740
+h_bar_40.png**5942
+h_bar_50.png**5982
+h_bar_60.png**6106
+h_bar_70.png**5950
+h_bar_80.png**5977
+h_bar_90.png**6175
+ps_arrow.png**16485
+ps_backg.png**59038
+ps_backg_1.png**14098
+ps_backg_2.png**15993
+ps_backg_3.png**15125
+ps_backg_4.png**17026
+ps_backg_5.png**15148
+ps_backg_6.png**16582
+ps_backg_7.png**16435
+ps_backg_8.png**16704
+ps_backg_lines.png**14844
+s_1.png**6985
+s_2.png**6779
+s_3.png**6686
+s_4.png**6694
+s_5.png**6705
+s_6.png**6871
+v1**0
+crosshair.png**8988
+target.png**7602
+waypoint.png**11976
+waypoint_crime.png**8137
+waypoint_veh.png**5537
+web rodeo tip.png**10365
+webRodeoC.png**7008
+webRodeoK.png**7043
+ws_blossom.png**4937
+ws_blossomAux.png**6201
+ws_bomb.png**4957
+ws_bombAux.png**6027
+ws_drone.png**4850
+ws_droneAux.png**8937
+ws_electric.png**4851
+ws_electricAux.png**6245
+ws_holo_decoy.png**4298
+ws_holo_decoyAux.png**8794
+ws_impact.png**4433
+ws_impactAux.png**6110
+ws_shock_wave.png**4898
+ws_shock_waveAux.png**9192
+ws_shooter.png**4065
+ws_shooterAux.png**6919
+ws_suspension_matrix.png**4722
+ws_trip_mine.png**4420
+ws_trip_mineAux.png**5976
+Sounds**0
+air web rodeo.wav**123292
+basic melee 1.wav**78288
+basic melee 2.wav**78288
+basic melee 3.wav**32300
+basic melee 4.wav**32300
+basic melee 5.wav**32300
+basic melee 6.wav**32300
+basic melee 7.wav**27692
+basic melee 8.wav**46124
+big_fall.wav**232316
+big_jump_1.wav**70312
+big_jump_2.wav**69132
+crime_ended.wav**176540
+drone_deploy.wav**288604
+drone_deploy_fail.wav**139980
+drone_shot_1.wav**214744
+drone_shot_2.wav**212916
+drone_shot_3.wav**212696
+drone_vanish.wav**189256
+ent_spin.wav**59136
+ground web rodeo.pk**6232
+ground web rodeo.wav**525260
+holo_decoy.wav**228980
+holo_decoy_end.wav**113948
+h_powerselect_change_item.wav**184496
+h_powerselect_close.wav**202888
+h_powerselect_show.wav**201988
+jump punch 1.wav**78288
+jump punch 2.wav**82896
+jump punch 3.wav**73676
+jump punch 4.wav**78288
+jump punch 5.wav**92112
+jump punch 6.wav**46124
+jump web rodeo.wav**294864
+jump_1.wav**132992
+jump_2.wav**99992
+medium_fall.wav**120968
+move_1.wav**142648
+move_2.wav**133372
+move_3.wav**111188
+move_4.wav**112748
+no_shots.wav**270200
+no_special.wav**63284
+photoclick.wav**67716
+shock_wave.wav**290680
+simple_web_shot_1.wav**339516
+simple_web_shot_2.wav**346140
+simple_web_shot_3.wav**311624
+small_jump_1.wav**33732
+small_jump_2.wav**54788
+special_melee.wav**357652
+special_ready.wav**155080
+special_web_shot_1.wav**331856
+special_web_shot_2.wav**266612
+special_web_shot_3.wav**282168
+ssense1.wav**284392
+ssense2.wav**198936
+ssense3.wav**364368
+ssense4.wav**327192
+strong melee 1.wav**273120
+strong melee 2.wav**267184
+strong melee 3.wav**241464
+strong melee 4.wav**262144
+strong melee 5.wav**231388
+strong melee 6.wav**240872
+strong melee 7.wav**268364
+strong melee 8.wav**230036
+strong melee 9.wav**235180
+web1.wav**64900
+web2.wav**108532
+web3.wav**48392
+webShot_1.wav**233724
+webShot_2.wav**261432
+webShot_3.wav**259184
+webShot_4.wav**254540
+webShot_5.wav**268376
+webShot_6.wav**259928
+web_blossom_start.wav**571616
+wi_1.wav**134994
+wi_2.wav**175364
+wi_3.wav**149412
+wi_4.wav**176340
+wi_5.wav**164316
+wi_6.wav**223644
+wi_7.wav**214708
+ws_1.wav**133616
+ws_2.wav**171764
+ws_3.wav**101824
+Suits**0
+suit_0default.ini**492
+suit_1.ini**521
+suit_SpidermanCivilWar.ini**622
+TheSpiderman.ini**4419
+web rodeo ents.txt**6621
+TheSpiderman.ndll**1707008
+TheSpiderman.nibmod**12
+Thor by JulioNIB script files**0
+Images**0
+background.png**1102078
+background_weapons.png**485512
+BiFrostStrike.png**27433
+bringMeThanos.png**35792
+ChargingBeam.png**29140
+crosshair.png**12588
+energyBar.png**3078
+energy_1.png**58211
+energy_2.png**59127
+energy_3.png**59140
+energy_core_1.png**31315
+energy_core_2.png**31349
+energy_core_3.png**31286
+equip_both.png**37520
+equip_fists.png**12083
+equip_mjolnir.png**16774
+equip_stormB.png**23393
+fists.png**22211
+GodBlast.png**19158
+healthBar.png**3064
+indicators.png**36715
+LightningBeam.png**27868
+LightningShockwave.png**37284
+LightningStrike.png**29294
+mjolnir.png**27288
+preview**0
+bifroststrike_000000.png**47840
+bifroststrike_000001.png**48028
+bifroststrike_000002.png**48017
+bifroststrike_000003.png**52730
+bifroststrike_000004.png**15566
+bifroststrike_000005.png**30525
+bifroststrike_000006.png**49437
+bifroststrike_000007.png**47720
+bifroststrike_000008.png**49757
+bifroststrike_000009.png**34784
+bifroststrike_000010.png**39320
+bifroststrike_000011.png**25494
+bifroststrike_000012.png**53475
+bifroststrike_000013.png**54101
+bifroststrike_000014.png**55368
+bifroststrike_000015.png**56079
+bifroststrike_000016.png**57936
+bifroststrike_000017.png**50663
+bifroststrike_000018.png**53737
+bifroststrike_000019.png**47121
+bifroststrike_000020.png**50983
+bifroststrike_000021.png**53998
+bifroststrike_000022.png**55134
+bifroststrike_000023.png**55408
+bifroststrike_000024.png**59835
+bifroststrike_000025.png**50875
+bifroststrike_000026.png**41526
+bifroststrike_000027.png**42181
+bifroststrike_000028.png**43837
+bifroststrike_000029.png**44906
+bifroststrike_000030.png**45470
+bifroststrike_000031.png**44216
+bifroststrike_000032.png**44860
+bifroststrike_000033.png**45730
+bifroststrike_000034.png**45988
+bringMeThanos_000000.png**41599
+bringMeThanos_000001.png**42034
+bringMeThanos_000002.png**40871
+bringMeThanos_000003.png**41109
+bringMeThanos_000004.png**42036
+bringMeThanos_000005.png**43775
+bringMeThanos_000006.png**46406
+bringMeThanos_000007.png**48992
+bringMeThanos_000008.png**50323
+bringMeThanos_000009.png**50167
+bringMeThanos_000010.png**48492
+bringMeThanos_000011.png**49476
+bringMeThanos_000012.png**50679
+bringMeThanos_000013.png**45980
+bringMeThanos_000014.png**45899
+bringMeThanos_000015.png**26190
+bringMeThanos_000016.png**43347
+bringMeThanos_000017.png**44359
+bringMeThanos_000018.png**44448
+bringMeThanos_000019.png**43874
+bringMeThanos_000020.png**40246
+bringMeThanos_000021.png**37519
+bringMeThanos_000022.png**38152
+bringMeThanos_000023.png**39086
+bringMeThanos_000024.png**39324
+bringMeThanos_000025.png**38717
+bringMeThanos_000026.png**39951
+bringMeThanos_000027.png**40985
+chargingBeam_000000.png**45590
+chargingBeam_000001.png**46380
+chargingBeam_000002.png**46004
+chargingBeam_000003.png**48728
+chargingBeam_000004.png**50482
+chargingBeam_000005.png**47121
+chargingBeam_000006.png**48821
+chargingBeam_000007.png**49655
+chargingBeam_000008.png**47861
+chargingBeam_000009.png**51089
+chargingBeam_000010.png**52818
+chargingBeam_000011.png**50192
+chargingBeam_000012.png**43910
+chargingBeam_000013.png**43137
+chargingBeam_000014.png**46081
+chargingBeam_000015.png**46446
+chargingBeam_000016.png**46947
+chargingBeam_000017.png**47659
+chargingBeam_000018.png**44290
+chargingBeam_000019.png**45300
+chargingBeam_000020.png**44823
+chargingBeam_000021.png**42467
+chargingBeam_000022.png**44203
+chargingBeam_000023.png**43307
+chargingBeam_000024.png**46455
+chargingBeam_000025.png**45864
+chargingBeam_000026.png**47683
+chargingBeam_000027.png**47651
+chargingBeam_000028.png**45232
+chargingBeam_000029.png**47562
+chargingBeam_000030.png**48824
+chargingBeam_000031.png**49455
+chargingBeam_000032.png**49056
+chargingBeam_000033.png**47172
+chargingBeam_000034.png**48190
+chargingBeam_000035.png**48639
+godBlast_000000.png**42383
+godBlast_000001.png**42394
+godBlast_000002.png**47369
+godBlast_000003.png**57106
+godBlast_000004.png**57617
+godBlast_000005.png**51005
+godBlast_000006.png**53191
+godBlast_000007.png**57165
+godBlast_000008.png**58860
+godBlast_000009.png**54445
+godBlast_000010.png**60401
+godBlast_000011.png**59282
+godBlast_000012.png**43208
+godBlast_000013.png**42020
+godBlast_000014.png**44950
+godBlast_000015.png**45744
+godBlast_000016.png**35222
+godBlast_000017.png**39804
+godBlast_000018.png**43015
+godBlast_000019.png**44296
+godBlast_000020.png**44487
+godBlast_000021.png**41309
+godBlast_000022.png**35051
+godBlast_000023.png**38963
+godBlast_000024.png**37786
+godBlast_000025.png**40917
+godBlast_000026.png**39089
+godBlast_000027.png**41165
+godBlast_000028.png**41337
+godBlast_000029.png**42103
+godBlast_000030.png**43556
+godBlast_000031.png**44668
+godBlast_000032.png**38607
+godBlast_000033.png**40178
+godBlast_000034.png**40809
+godBlast_000035.png**41470
+godBlast_000036.png**42157
+godBlast_000037.png**39824
+godBlast_000038.png**41049
+godBlast_000039.png**41471
+lightningBeam_000000.png**47653
+lightningBeam_000001.png**48328
+lightningBeam_000002.png**48439
+lightningBeam_000003.png**53033
+lightningBeam_000004.png**53001
+lightningBeam_000005.png**53735
+lightningBeam_000006.png**55070
+lightningBeam_000007.png**54715
+lightningBeam_000008.png**53143
+lightningBeam_000009.png**48808
+lightningBeam_000010.png**51428
+lightningBeam_000011.png**48143
+lightningBeam_000012.png**42688
+lightningBeam_000013.png**34375
+lightningBeam_000014.png**33418
+lightningBeam_000015.png**36072
+lightningBeam_000016.png**36066
+lightningBeam_000017.png**41472
+lightningBeam_000018.png**43058
+lightningBeam_000019.png**40190
+lightningBeam_000020.png**43246
+lightningBeam_000021.png**40181
+lightningBeam_000022.png**40884
+lightningBeam_000023.png**41439
+lightningBeam_000024.png**43414
+lightningBeam_000025.png**42909
+lightningBeam_000026.png**43016
+lightningBeam_000027.png**40964
+lightningBeam_000028.png**43207
+lightningBeam_000029.png**41251
+lightningBeam_000030.png**42586
+lightningBeam_000031.png**42721
+lightningBeam_000032.png**43197
+lightningBeam_000033.png**43322
+lightningShockwave_000000.png**37493
+lightningShockwave_000001.png**38093
+lightningShockwave_000002.png**38368
+lightningShockwave_000003.png**38575
+lightningShockwave_000004.png**38614
+lightningShockwave_000005.png**39158
+lightningShockwave_000006.png**40396
+lightningShockwave_000007.png**44500
+lightningShockwave_000008.png**45573
+lightningShockwave_000009.png**37602
+lightningShockwave_000010.png**33852
+lightningShockwave_000011.png**37851
+lightningShockwave_000012.png**43509
+lightningShockwave_000013.png**42326
+lightningShockwave_000014.png**39518
+lightningShockwave_000015.png**42825
+lightningShockwave_000016.png**44727
+lightningShockwave_000017.png**45448
+lightningShockwave_000018.png**42628
+lightningShockwave_000019.png**42203
+lightningShockwave_000020.png**26912
+lightningShockwave_000021.png**45863
+lightningShockwave_000022.png**42720
+lightningShockwave_000023.png**40509
+lightningShockwave_000024.png**39576
+lightningShockwave_000025.png**38859
+lightningShockwave_000026.png**39855
+lightningShockwave_000027.png**40737
+lightningShockwave_000028.png**33350
+lightningShockwave_000029.png**34989
+lightningShockwave_000030.png**35890
+lightningShockwave_000031.png**36404
+lightningShockwave_000032.png**36849
+lightningShockwave_000033.png**34503
+lightningShockwave_000034.png**34952
+lightningShockwave_000035.png**35323
+lightningShockwave_000036.png**35672
+lightningstrike_000000.png**52167
+lightningstrike_000001.png**52533
+lightningstrike_000002.png**52474
+lightningstrike_000003.png**52753
+lightningstrike_000004.png**51253
+lightningstrike_000005.png**57491
+lightningstrike_000006.png**57038
+lightningstrike_000007.png**56946
+lightningstrike_000008.png**56959
+lightningstrike_000009.png**56597
+lightningstrike_000010.png**56588
+lightningstrike_000011.png**56362
+lightningstrike_000012.png**56372
+lightningstrike_000013.png**54380
+lightningstrike_000014.png**54960
+lightningstrike_000015.png**52209
+lightningstrike_000016.png**52352
+lightningstrike_000017.png**42203
+lightningstrike_000018.png**44438
+lightningstrike_000019.png**35971
+lightningstrike_000020.png**46945
+lightningstrike_000021.png**38836
+lightningstrike_000022.png**39114
+lightningstrike_000023.png**42750
+lightningstrike_000024.png**42289
+lightningstrike_000025.png**45583
+lightningstrike_000026.png**47533
+lightningstrike_000027.png**48626
+lightningstrike_000028.png**49856
+lightningstrike_000029.png**48576
+lightningstrike_000030.png**49337
+lightningstrike_000031.png**49958
+lightningstrike_000032.png**50815
+lightningstrike_000033.png**51038
+lightningstrike_000034.png**49978
+lightningstrike_000035.png**50539
+lightningstrike_000036.png**51078
+tornado_000000.png**47344
+tornado_000001.png**46035
+tornado_000002.png**47091
+tornado_000003.png**47466
+tornado_000004.png**44592
+tornado_000005.png**46338
+tornado_000006.png**44773
+tornado_000007.png**46699
+tornado_000008.png**47042
+tornado_000009.png**46158
+tornado_000010.png**36261
+tornado_000011.png**39989
+tornado_000012.png**43664
+tornado_000013.png**45600
+tornado_000014.png**46452
+tornado_000015.png**43587
+tornado_000016.png**43303
+tornado_000017.png**45619
+tornado_000018.png**46687
+tornado_000019.png**46985
+tornado_000020.png**47038
+tornado_000021.png**43321
+tornado_000022.png**44545
+tornado_000023.png**43929
+tornado_000024.png**47790
+tornado_000025.png**47841
+tornado_000026.png**45209
+tornado_000027.png**46337
+tornado_000028.png**46429
+tornado_000029.png**48151
+tornado_000030.png**48851
+tornado_000031.png**46919
+tornado_000032.png**48196
+tornado_000033.png**47774
+tornado_000034.png**47042
+tornado_000035.png**47626
+tornado_000036.png**45965
+tornado_000037.png**48123
+tornado_000038.png**47973
+tornado_000039.png**47438
+tornado_000040.png**47156
+tornado_000041.png**43592
+tornado_000042.png**43673
+tornado_000043.png**43174
+tornado_000044.png**43378
+tornado_000045.png**43840
+tornado_000046.png**42638
+tornado_000047.png**42575
+tornado_000048.png**42846
+selected_anim_1.png**173380
+selected_anim_2.png**167927
+selected_anim_3.png**168629
+stormB.png**24203
+target.png**7602
+tornado.png**31045
+wpSign.png**6202
+wpSpin.png**12262
+wselect_both.png**83388
+wselect_fists.png**40151
+wselect_mjolnir.png**43914
+wselect_stormB.png**60810
+models_replace.txt**132
+Sounds**0
+beam_end.wav**424108
+beam_start.wav**1379796
+biFrost_end.wav**600644
+biFrost_explode.wav**1138420
+biFrost_move_1.wav**418700
+biFrost_move_2.wav**593116
+biFrost_start.wav**1183700
+doubleGuns_beam_start.wav**589380
+flight_begin.wav**328604
+flight_end.wav**214252
+god_blast_start.wav**1690616
+hammer_catch.wav**111624
+hammer_flight.wav**369876
+hammer_hit_1.wav**315892
+hammer_hit_2.wav**309732
+hammer_hit_metal.wav**375708
+hammer_move_attack_1.wav**271276
+hammer_move_attack_start.wav**154436
+hammer_moving_1.wav**89828
+hammer_released_hit.wav**316060
+hammer_spin_loop.wav**371420
+hammer_throw.wav**442676
+lightning_strike_1.wav**252950
+shockwave_charge.wav**1336920
+soundLoad.wav**252950
+stone_break.wav**173808
+stormB_catch.wav**87540
+stormB_hitPed_1.wav**175292
+stormB_hitPed_2.wav**171872
+stormB_hitPed_3.wav**175292
+stormB_hit_1.wav**50872
+stormB_hit_metal.wav**225336
+stormB_hit_ped_1.wav**102764
+stormB_hit_ped_2.wav**98152
+stormB_hit_ped_3.wav**95380
+stormB_move_1_air.wav**162076
+stormB_move_2_air.wav**177744
+stormB_move_3_air.wav**150164
+stormB_move_attack_1.wav**199836
+stormB_move_attack_2.wav**224812
+stormB_move_attack_3.wav**231756
+stormB_move_attack_4.wav**267828
+stormB_spin.wav**310476
+stormB_throw.wav**249228
+thor_beam_loop.wav**223264
+thunder.wav**2277092
+thunder_1.wav**371844
+thunder_2.wav**995660
+thunder_3.wav**497852
+thunder_chargeStart.wav**970724
+Suits**0
+0_keepPlayerChar.ini**3012
+suit_ThorByDreadNot.ini**4657
+suit_True_King_THOR.ini**5021
+Thor by JulioNIB.ini**4891
+titleBG.png**81862
+Thor by JulioNIB.ndll**1823744
+Thor by JulioNIB.nibmod**16
+Thor Files**0
+Default Player.ini**1547
+Images**0
+God Blast.png**257161
+Lightning Bolt.png**280248
+Special Meter**0
+frame_000.png**15152
+frame_001.png**15304
+frame_002.png**15579
+frame_003.png**15906
+frame_004.png**16131
+frame_005.png**16433
+frame_006.png**16622
+frame_007.png**16884
+frame_008.png**16959
+frame_009.png**17141
+frame_010.png**17307
+frame_011.png**17274
+frame_012.png**17161
+frame_013.png**17094
+frame_014.png**16881
+frame_015.png**16803
+frame_016.png**16659
+frame_017.png**16467
+frame_018.png**16244
+frame_019.png**15389
+frame_020.png**15483
+frame_021.png**15671
+frame_022.png**15732
+frame_023.png**15828
+frame_024.png**15950
+frame_025.png**16021
+frame_026.png**16110
+frame_027.png**16170
+frame_028.png**16249
+frame_029.png**16344
+frame_030.png**16413
+frame_031.png**16468
+frame_032.png**16572
+frame_033.png**16626
+frame_034.png**16722
+frame_035.png**16806
+frame_036.png**16903
+frame_037.png**16990
+frame_038.png**17061
+frame_039.png**17109
+frame_040.png**17234
+frame_041.png**17322
+frame_042.png**17338
+frame_043.png**18374
+frame_044.png**18580
+frame_045.png**18837
+frame_046.png**18859
+frame_047.png**18935
+frame_048.png**18971
+frame_049.png**19061
+frame_050.png**19125
+frame_051.png**19092
+frame_052.png**18990
+frame_053.png**18957
+frame_054.png**18971
+frame_055.png**18831
+frame_056.png**18775
+frame_057.png**18686
+frame_058.png**18629
+frame_059.png**18670
+frame_060.png**18526
+frame_061.png**18438
+frame_062.png**18197
+frame_063.png**18171
+frame_064.png**18111
+frame_065.png**17934
+frame_066.png**17866
+frame_067.png**17724
+frame_068.png**17560
+frame_069.png**17394
+frame_070.png**17425
+frame_071.png**17347
+frame_072.png**17355
+frame_073.png**17129
+frame_074.png**16887
+frame_075.png**17000
+frame_076.png**16815
+frame_077.png**16723
+frame_078.png**16585
+frame_079.png**16514
+frame_080.png**16344
+frame_081.png**16264
+frame_082.png**16344
+frame_083.png**16045
+frame_084.png**16029
+frame_085.png**16004
+max_00.png**21157
+max_01.png**21709
+max_02.png**23284
+max_03.png**23219
+max_04.png**23172
+max_05.png**21894
+max_06.png**21092
+max_07.png**23460
+max_08.png**22491
+max_09.png**21760
+max_10.png**21989
+max_11.png**21062
+max_12.png**21567
+max_13.png**22051
+max_14.png**21441
+max_15.png**21132
+max_16.png**20994
+max_17.png**20940
+max_18.png**21233
+max_19.png**21252
+max_20.png**21208
+OdinForce000.png**207219
+OdinForce001.png**207808
+OdinForce002.png**208519
+OdinForce003.png**209459
+OdinForce004.png**209898
+OdinForce005.png**210521
+OdinForce006.png**210923
+OdinForce007.png**211151
+OdinForce008.png**211004
+OdinForce009.png**211618
+OdinForce010.png**212333
+OdinForce011.png**213560
+OdinForce012.png**213269
+OdinForce013.png**214124
+OdinForce014.png**214576
+OdinForce015.png**214698
+OdinForce016.png**214791
+OdinForce017.png**215173
+OdinForce018.png**214633
+OdinForce019.png**214498
+OdinForce020.png**214952
+OdinForce021.png**214224
+OdinForce022.png**213186
+OdinForce023.png**212419
+OdinForce024.png**211707
+OdinForce025.png**209738
+OdinForce026.png**207205
+OdinForce027.png**204900
+OdinForce028.png**201911
+OdinForce029.png**203538
+OdinForce030.png**205192
+OdinForce031.png**206123
+OdinForce032.png**207821
+OdinForce033.png**209114
+OdinForce034.png**210113
+OdinForce035.png**211236
+OdinForce036.png**211746
+OdinForce037.png**212196
+OdinForce038.png**212681
+OdinForce039.png**213266
+OdinForce040.png**213697
+OdinForce041.png**214144
+OdinForce042.png**214671
+OdinForce043.png**214765
+OdinForce044.png**214330
+OdinForce045.png**213700
+OdinForce046.png**212933
+OdinForce047.png**212675
+OdinForce048.png**212414
+OdinForce049.png**211373
+OdinForce050.png**211286
+OdinForce051.png**211188
+OdinForce052.png**211034
+OdinForce053.png**209990
+OdinForce054.png**209660
+OdinForce055.png**209044
+OdinForce056.png**208513
+OdinForce057.png**208406
+OdinForce058.png**208126
+OdinForce059.png**207924
+OdinForce060.png**207924
+OdinForce061.png**208285
+OdinForce062.png**209066
+OdinForce063.png**209741
+OdinForce064.png**210199
+OdinForce065.png**211183
+OdinForce066.png**211399
+OdinForce067.png**212089
+OdinForce068.png**212327
+OdinForce069.png**213217
+OdinForce070.png**213508
+OdinForce071.png**214083
+OdinForce072.png**214974
+OdinForce073.png**215770
+OdinForce074.png**216562
+OdinForce075.png**216106
+OdinForce076.png**216053
+OdinForce077.png**215774
+OdinForce078.png**214565
+OdinForce079.png**213913
+OdinForce080.png**213108
+OdinForce081.png**212020
+OdinForce082.png**210666
+OdinForce083.png**209384
+OdinForce084.png**208150
+OdinForce085.png**206250
+OdinForce086.png**204381
+OdinForce087.png**202886
+OdinForce088.png**200962
+OdinForce089.png**199320
+OdinForce090.png**201794
+OdinForce091.png**203541
+OdinForce092.png**206408
+OdinForce093.png**208427
+OdinForce094.png**209728
+OdinForce095.png**210983
+OdinForce096.png**212209
+OdinForce097.png**213484
+OdinForce098.png**213467
+OdinForce099.png**213717
+OdinForce100.png**214452
+OdinForce101.png**214610
+OdinForce102.png**214836
+OdinForce103.png**214948
+OdinForce104.png**215067
+OdinForce105.png**215431
+OdinForce106.png**215599
+OdinForce107.png**214333
+OdinForce108.png**213620
+OdinForce109.png**212609
+OdinForce110.png**212640
+OdinForce111.png**212251
+OdinForce112.png**212028
+OdinForce113.png**211322
+OdinForce114.png**210520
+OdinForce115.png**209486
+OdinForce116.png**208998
+OdinForce117.png**208169
+OdinForce118.png**207514
+OdinForce119.png**207219
+OdinForceBG.png**300045
+super_00.png**19753
+super_01.png**20078
+super_02.png**20048
+super_03.png**19900
+super_04.png**19869
+super_05.png**19670
+super_06.png**19727
+super_07.png**19648
+super_08.png**19728
+super_09.png**20176
+super_10.png**20557
+super_11.png**20804
+super_12.png**21252
+super_13.png**21574
+super_14.png**21632
+super_15.png**21785
+super_16.png**21705
+super_17.png**21909
+super_18.png**22226
+super_19.png**21353
+super_20.png**20751
+super_21.png**21079
+super_22.png**22229
+super_23.png**21845
+super_24.png**20738
+super_25.png**20552
+super_26.png**20756
+super_27.png**20439
+super_28.png**20282
+super_29.png**20422
+super_30.png**20629
+super_31.png**21157
+Storm of Asgard.png**215261
+Realistic Config.ini**1546
+Settings.cfg**878
+SHAZAM.ini**1609
+Sounds**0
+Default**0
+1# ACTIVATING THE MOD.wav**414964
+10# MJOLNIR HUM.wav**412162
+11# SPIN BEFORE.wav**141766
+12# AIR WHOOSH.wav**228072
+13# AHHH (1).wav**129270
+13# AHHH (2).wav**74894
+13# AHHH (3).wav**93146
+13# AHHH (4).wav**347458
+2# CALL FOR HAMMER.wav**143718
+3# SPINNING MJOLNIR LOOPABLE.wav**222196
+4# MJOLNIR THROW.wav**121470
+5# MJOLNIR IMPACT (MELEE).wav**257098
+6# GOD BLAST LOOPABLE.wav**534238
+7# FLYING LOOPABLE.wav**1649874
+8# HEIMDALL OPEN THE BIFROST.wav**1273316
+9# STORM OF ASGARD.wav**923122
+Readme.txt**755
+Shazam**0
+1# ACTIVATING THE MOD.wav**9830
+10# MJOLNIR HUM.wav**9830
+11# SPIN BEFORE.wav**9830
+12# AIR WHOOSH.wav**228072
+13# AHHH (1).wav**9830
+13# AHHH (2).wav**9830
+2# CALL FOR HAMMER.wav**9830
+3# SPINNING MJOLNIR LOOPABLE.wav**9830
+4# MJOLNIR THROW.wav**9830
+5# MJOLNIR IMPACT (MELEE).wav**9830
+6# GOD BLAST LOOPABLE.wav**534238
+7# FLYING LOOPABLE.wav**1649874
+8# HEIMDALL OPEN THE BIFROST.wav**9830
+9# STORM OF ASGARD.wav**9830
+Remarks**0
+BY ODINS BEARD.wav**9830
+HAVE AT THEE.wav**9830
+I SHALL NEVER TIRE.wav**9830
+YIELD.wav**9830
+YOU FOUGHT.wav**9830
+ThorScript.dll**274432
+ThorScript.scmod**28
+utils.lua**163
+VehicleList.ini**8589
+Venom script files**0
+Images**0
+crosshair.png**8988
+eat head.png**147224
+ground spikes attack.png**142767
+hud_bg.png**1088673
+hunger meter hunger.png**3486
+hunger meter hungry.png**3517
+hunger meter.png**16878
+power meter.png**13537
+spike attack.png**164533
+target.png**7602
+Sounds**0
+attack_1.wav**97712
+attack_2.wav**113612
+attack_3.wav**98408
+attack_4.wav**89092
+attack_5.wav**111248
+eatHead.wav**105252
+ground_spike_attack_shoot.wav**213236
+spike_attack.wav**227540
+spike_attack_shoot.wav**213236
+spike_attack_start.wav**111248
+Voice**0
+delicious.wav**338248
+devour you.wav**294572
+hello.wav**212820
+hum.wav**178056
+pain_1.wav**115436
+pain_2.wav**124644
+pain_3.wav**115436
+we are venom.wav**450236
+yum.wav**291212
+webShot_1.wav**414680
+webShot_2.wav**102656
+webShot_3.wav**57504
+Suits**0
+suit_0default.ini**511
+suit_carnage(Small)-TheMadBreaker.ini**566
+suit_carnage-TheMadBreaker.ini**550
+suit_venom (2018)-TheMadBreaker.ini**552
+suit_venom-TheMadBreaker.ini**612
+Venom.ini**3264
+Venom.ndll**1079296
+Venom.nibmod**5
+socialclub.dll**1024004
+socialclub.ini**12091
+steam000.wow**239904
+steam001.wow**8017896
+steam_api.ini**1856
+steam_api64.dll**1762308
+steam_api_ext64.dll**285700
+The_LUT.ini**1337
+timecyclemods.asi**111616
+timecyclemods.ini**3526
+Trainers**0
+ENT**0
+dinput8.dll**131072
+EnhancedNativeTrainer.asi**16873472
+ENT Readme.rtf**2145
+ent-config.xml**7597
+ScriptHookV.dll**957440
+Menyoo**0
+dinput8.dll**131072
+Menyoo.asi**4884480
+menyooStuff**0
+AnimalRidingData.xml**575
+Audio**0
+Audio.readme.txt**97
+Graphics**0
+Clock**0
+Clock.readme.txt**281
+Default_face.png**45070
+Default_handh.png**584
+Default_handm.png**590
+Frameless_face.png**18243
+Frameless_handh.png**584
+Frameless_handm.png**590
+Speedo**0
+bg_cyan.png**35299
+bg_cyan2.png**33997
+bg_green.png**35248
+bg_green2.png**34306
+bg_orange.png**33511
+bg_orange2.png**34316
+bg_pink.png**33665
+bg_pink2.png**34454
+bg_purple.png**33810
+bg_purple2.png**46805
+bg_yellow.png**33957
+bg_yellow2.png**34713
+needle_orange.png**7210
+needle_red.png**5700
+night_needle_orange.png**10539
+night_needle_red.png**7232
+teleportToWaypointBoxGamepad.png**9500
+teleportToWaypointBoxKeyboard.png**8223
+Vehicle Previews**0
+Vehicle Previews.readme.txt**142
+JumpAroundMode.mp3**2401768
+menyooConfig.ini**6245
+Outfit**0
+GhostRider.xml**11575
+Outfit.readme.txt**49
+PedAnimList.txt**4156475
+PedDecalOverlays.xml**196353
+PedList.xml**41939
+PropList.txt**207840
+Spooner**0
+Spooner.readme.txt**68
+TimecycModifiers.xml**2094
+Vehicle**0
+GhostRider.xml**24982
+GhostRiderCandles.xml**20883
+GhostRiderCats.xml**7407
+Vehicle.readme.txt**64
+VehicleList.xml**16795
+WeaponsLoadout**0
+WeaponsLoadout.readme.txt**79
+Readme.txt**802
+ScriptHookV.dll**957440
+TrainerV.asi**15192576
+trainerv.ini**77843
+TrainerVasi**19103232
+unins000.dat**1181531
+unins000.exe**1515889
+update**0
+update.rpf**814551040
+x64**0
+data**0
+errorcodes**0
+american.txt**24691
+chinese.txt**45303
+french.txt**47520
+german.txt**48121
+italian.txt**46608
+japanese.txt**58601
+korean.txt**53949
+mexican.txt**46587
+polish.txt**46135
+portuguese.txt**48397
+russian.txt**68992
+spanish.txt**49091
+dlcpacks**0
+mpairraces**0
+dlc.rpf**82458624
+mpapartment**0
+dlc.rpf**636985344
+mpbiker**0
+dlc.rpf**1794048000
+mpchristmas2**0
+dlc.rpf**63940608
+mpexecutive**0
+dlc.rpf**801568768
+mpgunrunning**0
+dlc.rpf**1879756800
+mphalloween**0
+dlc.rpf**104658944
+mpheist**0
+dlc.rpf**3052763136
+mpimportexport**0
+dlc.rpf**915310592
+mpjanuary2016**0
+dlc.rpf**149415936
+mplowrider**0
+dlc.rpf**1088813056
+mplowrider2**0
+dlc.rpf**334028800
+mpluxe**0
+dlc.rpf**226260992
+mpluxe2**0
+dlc.rpf**105105408
+mppatchesng**0
+dlc.rpf**437524480
+mpreplay**0
+dlc.rpf**429932544
+mpsmuggler**0
+dlc.rpf**973670400
+mpspecialraces**0
+dlc.rpf**78448640
+mpstunt**0
+dlc.rpf**348047360
+mpvalentines2**0
+dlc.rpf**25073664
+mpxmas_604490**0
+dlc.rpf**46061568
+patchday10ng**0
+dlc.rpf**94134272
+patchday11ng**0
+dlc.rpf**9955328
+patchday12ng**0
+dlc.rpf**155363328
+patchday13ng**0
+dlc.rpf**144752640
+patchday14ng**0
+dlc.rpf**92930048
+patchday15ng**0
+dlc.rpf**47478784
+patchday16ng**0
+dlc.rpf**12083200
+patchday1ng**0
+dlc.rpf**467415040
+patchday2bng**0
+dlc.rpf**39548928
+patchday2ng**0
+dlc.rpf**804900864
+patchday3ng**0
+dlc.rpf**2253039616
+patchday4ng**0
+dlc.rpf**312438784
+patchday5ng**0
+dlc.rpf**7827456
+patchday6ng**0
+dlc.rpf**31907840
+patchday7ng**0
+dlc.rpf**43843584
+patchday8ng**0
+dlc.rpf**365328384
+patchday9ng**0
+dlc.rpf**160524288
+metadata.dat**960606
+Vivid.ini**7023
+Whos Blue.ini**1142
+x64**0
+audio**0
+audio_rel.rpf**3002368
+occlusion.rpf**692224
+sfx**0
+ANIMALS.rpf**661504
+ANIMALS_FAR.rpf**22233088
+ANIMALS_NEAR.rpf**64845824
+CUTSCENE_MASTERED_ONLY.rpf**1856481280
+DLC_GTAO.rpf**1423360
+INTERACTIVE_MUSIC.rpf**2994292736
+ONESHOT_AMBIENCE.rpf**69648384
+PAIN.rpf**42629120
+POLICE_SCANNER.rpf**68509696
+PROLOGUE.rpf**46827520
+RADIO_01_CLASS_ROCK.rpf**475279360
+RADIO_02_POP.rpf**502478848
+RADIO_03_HIPHOP_NEW.rpf**356595712
+RADIO_04_PUNK.rpf**148889600
+RADIO_05_TALK_01.rpf**140869632
+RADIO_06_COUNTRY.rpf**174714880
+RADIO_07_DANCE_01.rpf**124784640
+RADIO_08_MEXICAN.rpf**119494656
+RADIO_09_HIPHOP_OLD.rpf**367286272
+RADIO_11_TALK_02.rpf**126748672
+RADIO_12_REGGAE.rpf**246528000
+RADIO_13_JAZZ.rpf**322127872
+RADIO_14_DANCE_02.rpf**208363520
+RADIO_15_MOTOWN.rpf**227459072
+RADIO_16_SILVERLAKE.rpf**464926720
+RADIO_17_FUNK.rpf**289466368
+RADIO_18_90S_ROCK.rpf**209242112
+RADIO_ADVERTS.rpf**138137600
+RADIO_NEWS.rpf**226027520
+RESIDENT.rpf**112785408
+SCRIPT.rpf**237871104
+SS_AC.rpf**443506688
+SS_DE.rpf**154318848
+SS_FF.rpf**767225856
+SS_GM.rpf**396892160
+SS_NP.rpf**219041792
+SS_QR.rpf**190695424
+SS_ST.rpf**269207552
+SS_UZ.rpf**8665088
+STREAMED_AMBIENCE.rpf**29767680
+STREAMED_VEHICLES.rpf**43388928
+STREAMED_VEHICLES_GRANULAR.rpf**207796224
+STREAMED_VEHICLES_GRANULAR_NPC.rpf**42283008
+STREAMED_VEHICLES_LOW_LATENCY.rpf**569344
+STREAMS.rpf**422133760
+S_FULL_AMB_F.rpf**416227328
+S_FULL_AMB_M.rpf**640370688
+S_FULL_GAN.rpf**269701120
+S_FULL_SER.rpf**506068992
+S_MINI_AMB.rpf**591904768
+S_MINI_GAN.rpf**727840768
+S_MINI_SER.rpf**447803392
+S_MISC.rpf**697391104
+WEAPONS_PLAYER.rpf**3883008
+metadata.dat**848000
+x64a.rpf**48707584
+x64b.rpf**149448704
+x64c.rpf**2196207616
+x64d.rpf**1804668928
+x64e.rpf**2115954688
+x64f.rpf**1028757504
+x64g.rpf**2552596480
+x64h.rpf**1699563520
+x64i.rpf**1787043840
+x64j.rpf**2109519872
+x64k.rpf**2365648896
+x64l.rpf**2577571840
+x64m.rpf**1807249408
+x64n.rpf**1638481920
+x64o.rpf**1758345216
+x64p.rpf**1428606976
+x64q.rpf**2823614464
+x64r.rpf**1711259648
+x64s.rpf**1646266368
+x64t.rpf**1924630528
+x64u.rpf**1354405888
+x64v.rpf**1942046720
+x64w.rpf**937340928
+_Redist**0
+dxwebsetup.exe**299864
+fitgirl.md5**9857
+QuickSFV.EXE**103424
+QuickSFV.ini**155
